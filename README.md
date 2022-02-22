@@ -11,7 +11,7 @@ sudo usermod -aG docker user
 ## Step 2:
 Cloning repository:
 ```sh
-git clone
+git clone https://github.com/roylind/live_clamav.git
 chmod +x ./build_docker_container_image.sh
 chmod +x ./build_live_clamav.sh
 ```
